@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img align="right" width="220px" src="a0afaaed082c7c6aea8c0e4ff839e44e.gif" alt="coding gif"/>
+<img align="right" width="210px" src="a0afaaed082c7c6aea8c0e4ff839e44e.gif" alt="coding gif"/>
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -80,14 +80,6 @@
 [![Discord](https://img.shields.io/badge/isyzss-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/isyzss)
 [![WhatsApp](https://img.shields.io/badge/(85)%209%208466--2473-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585984662473)
 
-</div>
-
----
-
-## 🏆 Contribuições
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Isyszz&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
