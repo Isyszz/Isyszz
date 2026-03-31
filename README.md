@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Olá%2C+sou+a+Isabella!+👋;Estudante+de+Desenvolvimento+de+Sistemas;Gosto+Muito+de+Web+Dev+💻;Futura+Fullstack+Developer+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Olá%2C+sou+a+Isabella!+👋;Estudante+de+Desenvolvimento+de+Sistemas;Gosto+Muito+de+Desenvolvimento+Web+💻;Futura+Fullstack+Developer+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,11 +15,11 @@
 ## 🌸 Sobre mim
 
 ```
-  status:       Estudante do Ensino Médio Técnico em Dev. de Sistemas,
-  foco:         Desenvolvimento Web → Fullstack,
-  atualmente:   HTML, CSS, JavaScript,
-  em breve:     PHP avançado, React,
-  interesses:   Back-end, Banco de Dados, Front-end,
+  status:       Estudante do Ensino Médio Técnico em Dev. de Sistemas
+  foco:         Desenvolvimento Web → Fullstack
+  atualmente:   HTML, CSS, JavaScript
+  em breve:     PHP avançado, React
+  interesses:   Back-end, Banco de Dados, Front-end
   curiosidade:  Gosto de me aprofundar em tudo que envolve tecnologia 🔍
 
 ```
