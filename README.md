@@ -17,9 +17,9 @@
 ```
   status:       Estudante do Ensino Médio Técnico em Dev. de Sistemas,
   foco:         Desenvolvimento Web → Fullstack,
-  atualmente:   ["HTML", "CSS", "JavaScript"],
-  em_breve:     ["PHP avançado", "React"],
-  interesses:   ["Back-end", "Banco de Dados", "Front-end"],
+  atualmente:   HTML, CSS, JavaScript,
+  em_breve:     PHP avançado, React,
+  interesses:   Back-end, Banco de Dados, Front-end,
   curiosidade:  Gosto de me aprofundar em tudo que envolve tecnologia 🔍
 
 ```
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img align="right" width="210px" src="a0afaaed082c7c6aea8c0e4ff839e44e.gif" alt="coding gif"/>
+<img align="right" width="205px" src="a0afaaed082c7c6aea8c0e4ff839e44e.gif" alt="coding gif"/>
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
