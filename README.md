@@ -14,7 +14,7 @@
 
 ## 🌸 Sobre mim
 
-```javascript
+
 const isabella = {
   status:       "Estudante do Ensino Médio Técnico em Dev. de Sistemas",
   foco:         "Desenvolvimento Web → Fullstack",
@@ -23,7 +23,7 @@ const isabella = {
   interesses:   ["Back-end", "Banco de Dados", "Front-end"],
   curiosidade:  "Gosto de me aprofundar em tudo que envolve tecnologia 🔍"
 };
-```
+
 
 > 💜 Curiosa, gosta bastante de aprender e é determinada a crescer em todas as áreas do desenvolvimento web.
 
