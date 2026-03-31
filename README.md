@@ -14,7 +14,7 @@
 
 ## 🌸 Sobre mim
 
-
+```javascript
 const isabella = {
   status:       "Estudante do Ensino Médio Técnico em Dev. de Sistemas",
   foco:         "Desenvolvimento Web → Fullstack",
@@ -23,7 +23,7 @@ const isabella = {
   interesses:   ["Back-end", "Banco de Dados", "Front-end"],
   curiosidade:  "Gosto de me aprofundar em tudo que envolve tecnologia 🔍"
 };
-
+```
 
 > 💜 Curiosa, gosta bastante de aprender e é determinada a crescer em todas as áreas do desenvolvimento web.
 
@@ -33,7 +33,7 @@ const isabella = {
 
 <div align="center">
 
-<img align="right" width="220px" src=[[![download](https://github.com/user-attachments/assets/d089da70-a8d7-4ec8-8407-c2588de1f9f4)](https://github.com/user-attachments/assets/86e862fb-7ff6-46cc-9fb2-6f5731659720)](https://pin.it/759MujUvX) alt="coding gif"/>
+<img align="right" width="220px" src="c:\Users\isxbl\Downloads\Chat gif.gif" alt="coding gif"/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -105,3 +105,4 @@ const isabella = {
 
 
 </div>
+
