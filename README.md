@@ -52,12 +52,12 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsyszz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ff6b9d&icon_color=c44dff&text_color=ffffff&bg_color=0d1117&border_color=ff6b9d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsyszz&layout=compact&langs_count=7&theme=radical&title_color=ff6b9d&text_color=ffffff&bg_color=0d1117&border_color=ff6b9d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isyszz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ff6b9d&icon_color=c44dff&text_color=ffffff&bg_color=0d1117&border_color=ff6b9d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isyszz&layout=compact&langs_count=7&theme=radical&title_color=ff6b9d&text_color=ffffff&bg_color=0d1117&border_color=ff6b9d"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lsyszz&theme=radical&background=0d1117&border=ff6b9d&ring=c44dff&fire=ff6b9d&currStreakLabel=ff6b9d" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Isyszz&theme=radical&background=0d1117&border=ff6b9d&ring=c44dff&fire=ff6b9d&currStreakLabel=ff6b9d" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -93,7 +93,7 @@
 ## 🏆 Contribuições
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lsyszz&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Isyszz&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 ---
 
@@ -101,7 +101,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b9d,c44dff,7b2ff7&height=120&section=footer" width="100%"/>
 
-![Visitor Count](https://profile-counter.glitch.me/lsyszz/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Isyszz/count.svg)
 
 
 
