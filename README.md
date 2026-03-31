@@ -18,7 +18,7 @@
   status:       Estudante do Ensino Médio Técnico em Dev. de Sistemas,
   foco:         Desenvolvimento Web → Fullstack,
   atualmente:   HTML, CSS, JavaScript,
-  em_breve:     PHP avançado, React,
+  em breve:     PHP avançado, React,
   interesses:   Back-end, Banco de Dados, Front-end,
   curiosidade:  Gosto de me aprofundar em tudo que envolve tecnologia 🔍
 
